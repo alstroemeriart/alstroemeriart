@@ -9,8 +9,5 @@
 /•᷅‎‎•᷄\੭ can do both design and code  
 /•᷅‎‎•᷄\੭ working on: catching up on sleep
 
-## ✦ stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&theme=graywhite)
-
 ## ✦ note
 feel free to explore my repositories .ᐟ.ᐟ
