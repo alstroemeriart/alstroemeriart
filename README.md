@@ -1,5 +1,3 @@
-<!-- ⋆.˚ ᡣ𐭩 .𖥔˚  banner.svg and footer.svg must sit in this same repo, next to README.md  ⋆.˚ ᡣ𐭩 .𖥔˚ -->
-
 <!-- ───────────── HEADER ───────────── -->
 <div align="center">
 
@@ -16,9 +14,13 @@
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-6d4fc2?style=flat-square&labelColor=1a1033" alt="status" />
 
 <br/><br/>
-
-⋆.˚ ᡣ𐭩 .𖥔˚ &nbsp; ⋆˙⟡♡⋆.𐙚 ̊˚.𖥔 ݁❀ &nbsp; ⋆.˚ ᡣ𐭩 .𖥔˚
-
+┆　┆　┆　┆　┆
+┆　┆  ࣪ ˖☆ ࣪⭑┆ ݁˖ .☆ . ݁ ˖ 
+☆⊹ ࣪ ┆ ˖ ࣪　⊹ ࣪ ★ ⋆.˚  ⊹ ࣪
+   ࣪ ˖⋆˚★ ₊ ⊹　  ࣪˖ ࣪ ₊  ࣪ ˖　
+. ݁　⊹ ࣪ ˖　　　 ࣪ ˖
+　　.  ݁　　　  ݁
+　　. 
 </div>
 
 <br/>
