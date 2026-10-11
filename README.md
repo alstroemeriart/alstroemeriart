@@ -30,9 +30,7 @@
 
 ☆*⁀‧₊˚ second-year **Computer Science** student<br/>
 ☆*⁀‧₊˚ heading toward a **Software Engineering** major, hopefully with a **Game Development** minor<br/>
-☆*⁀‧₊˚ graphics member of my school's department organization<br/>
-☆*⁀‧₊˚ currently learning **Java** and sharpening my **Python**<br/>
-☆*⁀‧₊˚ building **All-In Randomizer** and **Game-On Learning**<br/>
+☆*⁀‧₊˚ building **All-In Randomizer** and **Game-On Learning**, in preparation for my dream game<br/>
 ☆*⁀‧₊˚ reach me at **raynerelativo143@gmail.com**
 
 </div>
