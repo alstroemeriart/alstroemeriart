@@ -119,7 +119,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alstroemeriart&bg_color=0d0a1f&color=C9B6FF&line=9b7bff&point=F0A6CA&area=true&area_color=4a2c9a&hide_border=true" alt="Contribution graph" />
+<a href="https://github.com/alstroemeriart">
+  <img src="https://ghchart.rshah.org/9b7bff/alstroemeriart" alt="Contribution calendar" width="90%" />
+</a>
 
 </div>
 
