@@ -14,13 +14,7 @@
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-6d4fc2?style=flat-square&labelColor=1a1033" alt="status" />
 
 <br/><br/>
-┆　┆　┆　┆　┆
-┆　┆  ࣪ ˖☆ ࣪⭑┆ ݁˖ .☆ . ݁ ˖ 
-☆⊹ ࣪ ┆ ˖ ࣪　⊹ ࣪ ★ ⋆.˚  ⊹ ࣪
-   ࣪ ˖⋆˚★ ₊ ⊹　  ࣪˖ ࣪ ₊  ࣪ ˖　
-. ݁　⊹ ࣪ ˖　　　 ࣪ ˖
-　　.  ݁　　　  ݁
-　　. 
+⋆✴︎˚｡⋆★࿐࿔✶. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.𖦹
 </div>
 
 <br/>
